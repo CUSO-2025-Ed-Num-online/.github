@@ -33,8 +33,8 @@ Un exemple de page web obtenue après application de la pipeline est disponible 
 
 
 ## Organisatrices
-- **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS *16th Century Exegesis of Paul*)  
 - **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS *SETAF*)
+- **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS *16th Century Exegesis of Paul*)  
 
 ---
 
