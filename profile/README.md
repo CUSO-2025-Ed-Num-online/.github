@@ -20,10 +20,10 @@ Cet atelier présente l'utilsation **GitHub Pages** comme outil de publication p
   
 ## programme de la journée 
 
-- cours 1
-- cours 2
-- cours 3
-- cours 4 
+- [cours 1](https://github.com/CUSO-2025-Ed-Num-online/cours-1_Introduction)
+- [cours 2](https://github.com/CUSO-2025-Ed-Num-online/cour-2_bases_TEI_HTML_CSS)
+- [cours 3](https://github.com/CUSO-2025-Ed-Num-online/cours-3_TEI_vers_HTML_via_XSLT)
+- [cours 4](https://github.com/CUSO-2025-Ed-Num-online/cours-4_Publier_sur_GitHub-Pages)
 
 ## Exemple de publication
 Un exemple de page web obtenue après application de la pipeline est disponible ici :  
