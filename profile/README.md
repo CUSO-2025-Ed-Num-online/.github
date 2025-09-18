@@ -1,5 +1,5 @@
 
-# Activité CUSO – Éditions numériques et GitHub Pages
+# Activité CUSO 2025 – Éditions numériques et GitHub Pages
 
 ---
 
