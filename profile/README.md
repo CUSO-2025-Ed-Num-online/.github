@@ -1,7 +1,7 @@
 
 # Activité CUSO 2025 – Éditions numériques et GitHub Pages
 
-Formation d'une journée, Genève, 14 novembre 2025. Cet atelier présente l'utilsation de **GitHub Pages** comme outil de publication pour certaines formes d’éditions numériques. Pour plus de détails concernant la salle et les iscriptions cliquer [ici](https://www.cuso.ch/activity/?p=877&uid=8178).
+Formation d'une journée, Genève, 14 novembre 2025. Cet atelier présente l'utilsation de **GitHub Pages** comme outil de publication pour certaines formes d’éditions numériques. Pour plus de détails concernant la salle et les iscriptions, cliquer [ici](https://www.cuso.ch/activity/?p=877&uid=8178).
 
 ## Organisatrices
 - **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS *SETAF*)
@@ -21,14 +21,14 @@ Un exemple de page web obtenue après l'application de la pipeline est disponibl
 
 ---
 ## Objectifs de l’atelier
-- Présentation d'une chaîne de traitement numérique :  
+- Présentation d'une chaîne de traitement numérique (pipeline) :  
   - encodage de base d'un texte en **XML-TEI**,  
   - transformation via **XSLT**,  
   - publication en **HTML** sur **GitHub Pages**.
 
     
 ## Outils
-- Series d'exercices pratiques à tester au cours de la journée et après l'atelier
+- Series d'exercices pratiques à tester au cours de la journée et après l'atelier.
 
   
 ## Programme de la journée 
@@ -46,7 +46,7 @@ Un exemple de page web obtenue après l'application de la pipeline est disponibl
 Un exemple de page web obtenue après application de la pipeline est disponible ici :  
 👉 [Reforming Paul (site en construction)](https://16thexegesisdh.github.io/ReformingPaul/)
 
-
+---
 ## Comment citer ce dépôt GitHub :
 
 à venir
@@ -58,7 +58,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 ---
-
 ## Ressources complémentaires  
 - [GitHub Pages](https://pages.github.com)  
 - [TEI Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/)
