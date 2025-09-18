@@ -1,11 +1,15 @@
 
 # Activité CUSO 2025 – Éditions numériques et GitHub Pages
 
+Formation d'une journée, Genève, 14 novembre 2025. Cet atelier présente l'utilsation de **GitHub Pages** comme outil de publication pour certaines formes d’éditions numériques. Pour plus de détails concernant la salle et les iscriptions cliquer [ici](https://www.cuso.ch/activity/?p=877&uid=8178).
+
+## Organisatrices
+- **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS *SETAF*)
+- **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS *16th Century Exegesis of Paul*) 
+
 ---
 
 ## Éditions numériques et GitHub Pages : survol d'une chaîne de traitement numérique (TEI, XSLT, HTML)  
-
-Cet atelier présente l'utilsation de **GitHub Pages** comme outil de publication pour certaines formes d’éditions numériques.  Pour plus de détails concernant les iscriptions cliquer [ici](https://www.cuso.ch/activity/?p=877&uid=8178).
 
 GitHub Pages peut-il constituer un outil pertinent pour la publication de certaines formes d'éditions numériques ? Tandis que TEI Publisher permet de produire aussi bien des éditions « haute couture » que des éditions « prêt-à-porter » - selon les termes d'Elena Pierazzo - GitHub Pages pourrait offrir une solution encore plus légère, adaptée à des projets de type Small-Scale Editions, tels que proposés, par exemple, par Wout Dillen à l'Université de Borås.
 
@@ -39,11 +43,7 @@ Un exemple de page web obtenue après l'application de la pipeline est disponibl
 ## Exemple de publication
 Un exemple de page web obtenue après application de la pipeline est disponible ici :  
 👉 [Reforming Paul (site en construction)](https://16thexegesisdh.github.io/ReformingPaul/)
-
-
-## Organisatrices
-- **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS *SETAF*)
-- **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS *16th Century Exegesis of Paul*)  
+ 
 
 ---
 
