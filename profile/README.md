@@ -32,6 +32,7 @@ Un exemple de page web obtenue après l'application de la pipeline est disponibl
 
   
 ## Programme de la journée 
+
 à venir
 <!--
 - Introduction et bases de la TEI : [cours 1](https://github.com/CUSO-2025-Ed-Num-online/cours-1_Introduction)
@@ -40,18 +41,27 @@ Un exemple de page web obtenue après l'application de la pipeline est disponibl
 - Publier des fichiers avec GitHub Pages: [cours 4](https://github.com/CUSO-2025-Ed-Num-online/cours-4_Publier_sur_GitHub-Pages)
 -->
 
+
 ## Exemple de publication
 Un exemple de page web obtenue après application de la pipeline est disponible ici :  
 👉 [Reforming Paul (site en construction)](https://16thexegesisdh.github.io/ReformingPaul/)
- 
+
+
+## Comment citer ce dépôt GitHub :
+
+à venir
+
+
+## Licence
+
+This work is licensed under a [Creative Commons Attribution 4.0 International Licence](https://creativecommons.org/licenses/by-sa/4.0/).
+
 
 ---
 
 ## Ressources complémentaires  
 - [GitHub Pages](https://pages.github.com)  
 - [TEI Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/)
-
----
 
 <!--
 
