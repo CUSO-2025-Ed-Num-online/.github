@@ -5,7 +5,15 @@
 
 ## Éditions numériques et GitHub Pages : survol d'une chaîne de traitement numérique (TEI, XSLT, HTML)  
 
-Cet atelier présente l'utilsation **GitHub Pages** comme outil de publication pour certaines formes d’éditions numériques.  
+Cet atelier présente l'utilsation de **GitHub Pages** comme outil de publication pour certaines formes d’éditions numériques.  Pour plus de détails concernant les iscriptions cliquer [ici](https://www.cuso.ch/activity/?p=877&uid=8178).
+
+GitHub Pages peut-il constituer un outil pertinent pour la publication de certaines formes d'éditions numériques ? Tandis que TEI Publisher permet de produire aussi bien des éditions « haute couture » que des éditions « prêt-à-porter » - selon les termes d'Elena Pierazzo - GitHub Pages pourrait offrir une solution encore plus légère, adaptée à des projets de type Small-Scale Editions, tels que proposés, par exemple, par Wout Dillen à l'Université de Borås.
+
+Cet atelier propose de présenter une chaîne de traitement numérique permettant ce type de publication, depuis l'encodage d'un texte en XML-TEI jusqu'à sa mise en ligne au format HTML via GitHub Pages, en passant par l'utilisation du langage de transformation XSLT.
+
+La formation se veut avant tout pratique et permettra aux participant·e·s de se familiariser avec ces outils à travers une série d'exercices constitués, dans la mesure du possible, sur la base des sujets de recherches des doctorant·e·s. L'activité s'adresse aux doctorant·e·s souhaitant explorer des méthodes reproductibles et accessibles pour concevoir et diffuser des éditions numériques. 
+
+Un exemple de page web obtenue après l'application de la pipeline est disponible à l'adresse suivante : 16thexegesisdh.github.io/ReformingPaul/ (à noter que le site est encore en construction).
 
 ---
 ## Objectifs de l’atelier
