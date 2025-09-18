@@ -1,7 +1,7 @@
 
 # Activité CUSO 2025 – Éditions numériques et GitHub Pages
 
-Formation d'une journée, Genève, 14 novembre 2025. Cet atelier présente l'utilsation de **GitHub Pages** comme outil de publication pour certaines formes d’éditions numériques. Pour plus de détails concernant la salle et les iscriptions, cliquer [ici](https://www.cuso.ch/activity/?p=877&uid=8178).
+Formation d'une journée, Genève, 14 novembre 2025. Cet atelier présente l'utilsation de **GitHub Pages** comme outil de publication pour certaines formes d’éditions numériques. Pour plus de détails concernant la salle et les inscriptions, cliquer [ici](https://www.cuso.ch/activity/?p=877&uid=8178).
 
 ## Organisatrices
 - **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS *SETAF*)
@@ -47,7 +47,7 @@ Un exemple de page web obtenue après application de la pipeline est disponible 
 👉 [Reforming Paul (site en construction)](https://16thexegesisdh.github.io/ReformingPaul/)
 
 ---
-## Comment citer ce dépôt GitHub :
+## Comment citer ce dépôt GitHub
 
 à venir
 
