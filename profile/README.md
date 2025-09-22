@@ -35,8 +35,8 @@ Un exemple de page web obtenue après l'application de la pipeline est disponibl
 
 à venir
 <!--
-- Introduction et bases de la TEI : [cours 1](https://github.com/CUSO-2025-Ed-Num-online/cours-1_Introduction)
-- De la TEI aux bases de l’HTML et de CSS : [cours 2](https://github.com/CUSO-2025-Ed-Num-online/cour-2_bases_TEI_HTML_CSS)
+- Introduction et bases de XML-TEI : [cours 1](https://github.com/CUSO-2025-Ed-Num-online/cours-1_Introduction)
+- De la TEI aux bases de HTML et CSS : [cours 2](https://github.com/CUSO-2025-Ed-Num-online/cour-2_bases_TEI_HTML_CSS)
 - D’un fichier TEI à un fichier HTML via XSLT : [cours 3](https://github.com/CUSO-2025-Ed-Num-online/cours-3_TEI_vers_HTML_via_XSLT)
 - Publier des fichiers avec GitHub Pages: [cours 4](https://github.com/CUSO-2025-Ed-Num-online/cours-4_Publier_sur_GitHub-Pages)
 -->
