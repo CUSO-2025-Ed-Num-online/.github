@@ -54,7 +54,7 @@ Un exemple de page web obtenue après application de la pipeline est disponible 
 
 ## Licence
 
-This work is licensed under a [Creative Commons Attribution 4.0 International Licence](https://creativecommons.org/licenses/by-sa/4.0/).
+Sauf mention du contraire, tous les matériaux sont sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
 ---
