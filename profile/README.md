@@ -72,3 +72,9 @@ Sauf mention du contraire, tous les matériaux sont sous licence [CC BY-SA 4.0](
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+---
+## Installations requises 
+- [Oxygen XML Editor](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) 
+- [Sublime Text](https://www.sublimetext.com/download)  
+- [GitHub Desktop](https://desktop.github.com/download/)
