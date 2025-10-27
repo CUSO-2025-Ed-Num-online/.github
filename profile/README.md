@@ -62,6 +62,7 @@ Sauf mention du contraire, tous les matériaux sont sous licence [CC BY-SA 4.0](
 - [GitHub Pages](https://pages.github.com)  
 - [TEI Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/)
 - [Html et autres langages informatiques](https://www.w3schools.com/html/html5_semantic_elements.asp)
+  
   👉 [htlm5 : balises sémantiques](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 <!--
