@@ -8,7 +8,6 @@ Formation d'une journée, Genève, 14 novembre 2025. Cet atelier présente l'uti
 - **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS *16th Century Exegesis of Paul*) 
 
 ---
-
 ## Éditions numériques et GitHub Pages : survol d'une chaîne de traitement numérique (TEI, XSLT, HTML)  
 
 GitHub Pages peut-il constituer un outil pertinent pour la publication de certaines formes d'éditions numériques ? Tandis que TEI Publisher permet de produire aussi bien des éditions « haute couture » que des éditions « prêt-à-porter » - selon les termes d'Elena Pierazzo - GitHub Pages pourrait offrir une solution encore plus légère, adaptée à des projets de type Small-Scale Editions, tels que proposés, par exemple, par Wout Dillen à l'Université de Borås.
@@ -35,10 +34,10 @@ Un exemple de page web obtenue après l'application de la pipeline est disponibl
 
 à venir
 <!--
-- Introduction et bases de XML-TEI : [cours 1](https://github.com/CUSO-2025-Ed-Num-online/cours-1_Introduction)
-- De la TEI aux bases de HTML et CSS : [cours 2](https://github.com/CUSO-2025-Ed-Num-online/cour-2_bases_TEI_HTML_CSS)
-- D’un fichier TEI à un fichier HTML via XSLT : [cours 3](https://github.com/CUSO-2025-Ed-Num-online/cours-3_TEI_vers_HTML_via_XSLT)
-- Publier des fichiers avec GitHub Pages: [cours 4](https://github.com/CUSO-2025-Ed-Num-online/cours-4_Publier_sur_GitHub-Pages)
+- Introduction et bases de la TEI --> [cours 1](https://github.com/CUSO-2025-Ed-Num-online/cours-1_Introduction)
+- D’un fichier TEI à un fichier HTML : HTML et CSS --> [cours 2](https://github.com/CUSO-2025-Ed-Num-online/cour-2_bases_TEI_HTML_CSS)
+- ’un fichier TEI à un fichier HTML : XSLT --> [cours 3](https://github.com/CUSO-2025-Ed-Num-online/cours-3_TEI_vers_HTML_via_XSLT)
+- Publier des fichiers HTML avec GitHub Pages --> [cours 4](https://github.com/CUSO-2025-Ed-Num-online/cours-4_Publier_sur_GitHub-Pages)
 -->
 
 
@@ -51,30 +50,17 @@ Un exemple de page web obtenue après application de la pipeline est disponible 
 
 à venir
 
-
 ## Licence
 
 Sauf mention du contraire, tous les matériaux sont sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
 
 ---
 ## Ressources complémentaires  
 - [GitHub Pages](https://pages.github.com)  
 - [TEI Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/)
-- [Html et autres langages informatiques](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [HTML et autres langages informatiques](https://www.w3schools.com)
   
-  👉 [htlm5 : balises sémantiques](https://www.w3schools.com/html/html5_semantic_elements.asp)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  👉 [HTML5 : balises sémantiques](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ---
 ## Installations requises 
