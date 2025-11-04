@@ -42,9 +42,6 @@ Un exemple de page web obtenue après application de la pipeline est disponible 
 👉 [Reforming Paul (site en construction)](https://16thexegesisdh.github.io/ReformingPaul/)
 
 ---
-## Comment citer ce dépôt GitHub
-
-à venir
 
 ## Licence
 
